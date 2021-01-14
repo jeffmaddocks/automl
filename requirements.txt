@@ -1,0 +1,7 @@
+kaggle
+h2o
+jupyter
+matplotlib
+numpy
+pandas
+pandas-profiling
